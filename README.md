@@ -36,6 +36,16 @@ You may include markdown shortcuts in your answers to the prompts to format the 
 
 Like all other README.md files, this one can be edited using HTML to add a litte flair to the text. If you want to add graphics ensure that you use the full URL to the image in the markdown link, or use a relative path to the image if you are going to be uploading the README.md file to a GitHub repository. You may also use UTF-8 encoding to add emojis to the text.
 
+Here are some popular previewer extensions for README files in the most common browsers:
+
+- Live Preview - VS Code Extension (VS Code): A VS Code extension that allows you to preview markdown files in the editor.
+- GitHub CLI extension to preview README.md (Chrome, Firefox, Safari): A GitHub CLI extension to preview your markdown such as README.md.
+- Markdown Preview Enhanced (Chrome, Firefox): A powerful and feature-rich markdown previewer with support for diagrams, math, and more.
+- Markdown Preview Plus (Chrome): Converts and previews markdown files (.md, .markdown) to HTML with live reload.
+- Markdown Viewer (Firefox): A powerful extension that helps you quickly preview markdown documents in Firefox.
+- Readability based Reader View (Firefox): Strips clutters from webpages and allows you to toggle between normal view and reader view by pressing the page-action button.
+- Markdown Reader (Firefox): Helps you better preview markdown documents.
+
 ## Questions
 If you have any questions, please feel free to contact me:
 
