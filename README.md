@@ -1,4 +1,6 @@
 
+You can find the repository for this project on GitHub: [README Generator Repository](https://github.com/Sciberius1/ReadME_Generator)
+
 # README Generator
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
@@ -38,13 +40,13 @@ Like all other README.md files, this one can be edited using HTML to add a litte
 
 Here are some popular previewer extensions for README files in the most common browsers:
 
-- Live Preview - VS Code Extension (VS Code): A VS Code extension that allows you to preview markdown files in the editor.
-- GitHub CLI extension to preview README.md (Chrome, Firefox, Safari): A GitHub CLI extension to preview your markdown such as README.md.
-- Markdown Preview Enhanced (Chrome, Firefox): A powerful and feature-rich markdown previewer with support for diagrams, math, and more.
-- Markdown Preview Plus (Chrome): Converts and previews markdown files (.md, .markdown) to HTML with live reload.
-- Markdown Viewer (Firefox): A powerful extension that helps you quickly preview markdown documents in Firefox.
-- Readability based Reader View (Firefox): Strips clutters from webpages and allows you to toggle between normal view and reader view by pressing the page-action button.
-- Markdown Reader (Firefox): Helps you better preview markdown documents.
+- [Live Preview - VS Code Extension (VS Code)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server): A VS Code extension that allows you to preview markdown files in the editor.
+- [Markdown Preview Plus (Chrome)](https://chrome.google.com/webstore/detail/markdown-preview-plus/): Converts and previews markdown files (.md, .markdown) to HTML with live reload.
+- [Markdown Viewer Plus (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/markdown-viewer-plus/): A powerful extension that helps you quickly preview markdown documents in Firefox.
+- [Markdown Viewer (Edge)](https://microsoftedge.microsoft.com/addons/detail/markdown-viewer/): A simple extension to view markdown files in Edge.
+- [Markdown Viewer (Safari)](https://apps.apple.com/us/app/markdown-viewer/id1483931281): A simple markdown viewer for Safari.
+ -[Markdown Viewer (Opera)](https://addons.opera.com/en/extensions/details/markdown-viewer/): A simple extension to view markdown files in Opera.
+- [Markdown Viewer (Brave)](https://chrome.google.com/webstore/detail/markdown-viewer/): A simple extension to view markdown files in Brave.
 
 ## Questions
 If you have any questions, please feel free to contact me:
